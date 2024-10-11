@@ -19,11 +19,11 @@ The ERC20 contract facilitates the transfer, minting, and burning of a standard 
   - Deploy your subnet
   - I've already deployed the contract on my subnet, use the following parameters to comfirm.
   ```
-    Network RPC URL: http://127.0.0.1:9650/ext/bc/Zyid56eqSAC65Pa1miTVF3kUvC4B6sDbYTeb4NpS8GwQBfNz/rpc
+    Network RPC URL: http://127.0.0.1:9650/ext/bc/simonSubnet/rpc
     Funded address: 0x8db97C7cEcE249c2b98bDC0226Cc4C2A57BF52FC with 1000000 (10^18)
-    Network Name: ciscoSubnet
-    Chain ID: 541064
-    Token Symbol: CISSUBNET
+    Network Name: simonSubnet
+    Chain ID: 228866
+    Token Symbol: SIMSUBNET
   ```
 
 ## Authors
